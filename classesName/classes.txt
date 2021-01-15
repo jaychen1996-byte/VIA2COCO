@@ -1,0 +1,6 @@
+almond 扁桃仁
+walnut 核桃仁
+hazelnut 榛子
+cashew 腰果
+pistachio 开心果
+macadamia 夏威夷果
